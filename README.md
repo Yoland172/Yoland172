@@ -1,25 +1,25 @@
 # 👋 About Me:
-💻 Full-Stack Developer | React & Node.js Enthusiast
-🚀 Passionate about building modern web applications with clean, scalable, and efficient code.
-⚡ Love working with React, Next.js, TypeScript, and Node.js to create dynamic and high-performance applications.
-🎯 Always learning and exploring new technologies to enhance my development skills.
+💻 Full-Stack Developer | React & Node.js Enthusiast<br>
+🚀 Passionate about building modern web applications with clean, scalable, and efficient code.<br>
+⚡ Love working with React, Next.js, TypeScript, and Node.js to create dynamic and high-performance applications.<br>
+🎯 Always learning and exploring new technologies to enhance my development skills.<br>
 
-🌱 Currently Learning:
-🔹 Advanced Backend Architecture with Nest.js & PostgreSQL
-🔹 Optimizing Web Performance and SEO
-🔹 Exploring AI & Automation in Web Development
+🌱 Currently Learning:<br>
+🔹 Advanced Backend Architecture with Nest.js & PostgreSQL<br>
+🔹 Optimizing Web Performance and SEO<br>
+🔹 Exploring AI & Automation in Web Development<br>
 
-🤝 Open to Collaboration On:
-🔹 Open-source projects that solve real-world problems
-🔹 SaaS applications with modern tech stacks
-🔹 AI-powered web solutions
+🤝 Open to Collaboration On:<br>
+🔹 Open-source projects that solve real-world problems<br>
+🔹 SaaS applications with modern tech stacks<br>
+🔹 AI-powered web solutions<br>
 
-🔍 Ask Me About:
-💡 Frontend Performance Optimization
-💡 Scalable Backend APIs
-💡 Tailwind & Styled Components for Modern UI Design
+🔍 Ask Me About:<br>
+💡 Frontend Performance Optimization<br>
+💡 Scalable Backend APIs<br>
+💡 Tailwind & Styled Components for Modern UI Design<br>
 
-Let’s build something amazing together! 🚀
+Let’s build something amazing together! 🚀<br>
 
 
 
@@ -39,4 +39,4 @@ Let’s build something amazing together! 🚀
 ---
 [![](https://visitcount.itsvg.in/api?id=Yoland172&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
